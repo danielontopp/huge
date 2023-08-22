@@ -1,26 +1,21 @@
 # lewa Hub
 
 ## Supported Games
-mm2
+𝗠𝗠𝟮
 
 
-next door
+
+𝗡𝗲𝘅𝘁 𝗗𝗼𝗼𝗿
 
 ### Script
 ```lua
 hi
 ```
 
-### Installation
-
-A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
+### Latest Updates
 ```
 
+```
 ## Usage
 
 A few examples of useful commands and/or tasks.
