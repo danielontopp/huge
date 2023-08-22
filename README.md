@@ -2,10 +2,15 @@
 ![](images/Screenshot_20230821-203945-646~3.png)
 
 ## Supported Games
-𝗠𝗠𝟮
+```lua
+MM2
 
-𝗡𝗲𝘅𝘁 𝗗𝗼𝗼𝗿
+Next Door
 
+Flag Wars
+
+Shrek In The Backrooms
+```
 ### Script
 ```lua
 hi
