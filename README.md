@@ -4,11 +4,11 @@
 ## Supported Games
 
 MM2
----
+
 Next Door
----
+
 Flag Wars
----
+
 Shrek In The Backrooms
 
 ### Script
