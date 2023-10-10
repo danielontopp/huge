@@ -5,7 +5,10 @@ if game.PlaceId == 13864661000 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/lewa-hub/main/scripts/Break%20in%202%20lobby",true))()
 end
 
-
 if game.PlaceId == 13864667823 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/lewa-hub/main/scripts/Break%20In%202",true))()
+end
+
+if game.PlaceId == 142823291 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/lewa-hub/main/scripts/MM2",true))()
 end
