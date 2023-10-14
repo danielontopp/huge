@@ -16,3 +16,7 @@ end
 if game.PlaceId == 3214114884 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/lewa-hub/main/scripts/Flag%20wars",true))()
 end
+
+if game.PlaceId == 9534337535 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/lewa-hub/main/scripts/Shrek%20in%20the%20backrooms",true))()
+end
